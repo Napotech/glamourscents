@@ -153,3 +153,20 @@ const bottleSizes = [
     "100ml"
 
 ];
+reviews:[
+{
+name:"Samuel",
+stars:5,
+comment:"Amazing scent! Lasted all day."
+},
+{
+name:"Michael",
+stars:4,
+comment:"Very close to the original fragrance."
+},
+{
+name:"Daniel",
+stars:5,
+comment:"Definitely buying again."
+}
+]

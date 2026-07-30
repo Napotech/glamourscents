@@ -1578,3 +1578,106 @@ justify-content:center;
 }
 
 }
+.whatsapp{
+
+position:fixed;
+
+bottom:25px;
+
+right:25px;
+
+width:65px;
+
+height:65px;
+
+background:#25D366;
+
+border-radius:50%;
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+font-size:32px;
+
+color:white;
+
+box-shadow:0 10px 25px rgba(0,0,0,.25);
+
+z-index:9999;
+
+transition:.3s;
+
+}
+
+.whatsapp:hover{
+
+transform:scale(1.12);
+
+}
+.checkout{
+
+max-width:700px;
+
+margin:100px auto;
+
+padding:30px;
+
+background:white;
+
+border-radius:15px;
+
+box-shadow:0 10px 30px rgba(0,0,0,.1);
+
+}
+
+.checkout h2{
+
+text-align:center;
+
+margin-bottom:30px;
+
+}
+
+.checkout-form{
+
+display:flex;
+
+flex-direction:column;
+
+gap:20px;
+
+}
+
+.checkout input,
+.checkout textarea{
+
+padding:15px;
+
+border:1px solid #ddd;
+
+border-radius:8px;
+
+font-size:16px;
+
+}
+
+.checkout button{
+
+padding:16px;
+
+background:#25D366;
+
+border:none;
+
+color:white;
+
+font-size:18px;
+
+border-radius:8px;
+
+cursor:pointer;
+
+}
