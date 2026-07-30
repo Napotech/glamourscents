@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Shopping Cart | Glamour Scents</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="logo-area">
+
+<i class="fas fa-bars menu-btn"></i>
+
+<h2>
+
+<span class="black">Glamour</span>
+
+<span class="gold">Scents</span>
+
+</h2>
+
+<a href="cart.html" class="cart">
+
+<i class="fas fa-shopping-bag"></i>
+
+<span id="cartCount">0</span>
+
+</a>
+
+</div>
+
+</header>
+
+<nav class="sidebar">
+
+<div class="close">
+
+<i class="fas fa-times"></i>
+
+</div>
+
+<ul>
+
+<li><a href="index.html">Home</a></li>
+
+<li><a href="products.html?category=men">For Him</a></li>
+
+<li><a href="products.html?category=women">For Her</a></li>
+
+<li><a href="products.html?category=unisex">Unisex</a></li>
+
+</ul>
+
+</nav>
+
+<div class="overlay"></div>
+
+<section class="page-banner">
+
+<div class="banner-content">
+
+<h1>Shopping Cart</h1>
+
+<p>Your selected fragrances</p>
+
+</div>
+
+</section>
+
+<section class="cart-page">
+
+<div id="cartContainer"></div>
+
+<div class="cart-summary">
+
+<h2>
+
+Order Summary
+
+</h2>
+
+<h3>
+
+Total:
+
+<span id="cartTotal">
+
+$0.00
+
+</span>
+
+</h3>
+
+<button id="checkoutBtn" class="btn">
+
+Proceed To Checkout
+
+</button>
+
+</div>
+
+</section>
+
+<script src="js/menu.js"></script>
+
+<script src="js/cartPage.js"></script>
+
+<script src="js/cart.js"></script>
+
+</body>
+
+</html>
