@@ -50,7 +50,7 @@ container.innerHTML+=`
 <img src="${product.image}" alt="">
 <div class="product-info">
 <h3>${product.name}</h3>
-<p class="price">$${product.price}</p>
+<p class="price">GH₵${product.price}</p>
 </div>
 </div>
 `;
