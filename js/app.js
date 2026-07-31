@@ -72,7 +72,7 @@ bottleImage.src=bottleImages["10ml"];
 
 // Default price
 
-productPrice.innerHTML="$"+bottlePrices["10ml"];
+productPrice.innerHTML="GH₵"+bottlePrices["10ml"];
 
 
 // Generate bottle cards
