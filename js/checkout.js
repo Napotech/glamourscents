@@ -56,7 +56,7 @@ item.price * item.quantity;
 
 total += subtotal;
 
-message += `• ${item.name}%0A`;
+message += `• ${item.perfume}%0A`;
 
 message +=
 `  Size: ${item.size}%0A`;
