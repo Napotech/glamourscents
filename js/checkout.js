@@ -46,8 +46,15 @@ message +=
 
 message +=
 `🛒 ORDER DETAILS%0A`;
-message +=
-`------------------------%0A`;
+const perfume =
+    item.name ||
+    item.perfume ||
+    item.perfumeName ||
+    item.title ||
+    item.product ||
+    "Unknown Perfume";
+
+message += `• ${perfume}%0A`;
 
 cart.forEach(item=>{
 
