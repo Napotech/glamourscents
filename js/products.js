@@ -34,6 +34,8 @@ const perfumeDatabase = {
 
         "Amouage Outlands",
 
+        "Black Ochid",        
+
         "Channel de Bleu",
 
         "CK Obsession",
@@ -57,6 +59,8 @@ const perfumeDatabase = {
         "Pegasus",
 
         "Red Tobacco Mancera",
+
+        "Pacco Rabanne XS",
 
         "Supremacy",
 
@@ -86,11 +90,29 @@ const perfumeDatabase = {
 
         "Bianco Latte",
 
+        "Born in Roma",
+
+        "Burberry Goddess",
+
+        "Burberry Elixir",
+
+        "Club de Nuit Maleka",
+
+        "Club de Nuit Women",
+
+        "Daisy Kiss",
+
+        "Delina",
+
         "Electric Cherry",
+
+        "Euphoria",
 
         "Good Girl",
 
         "Jimmy Choo (I Want Choo)",
+
+        "Hibiscus Mahajad",
 
         "Kayali Eden Juicy Apple",
 
@@ -106,9 +128,13 @@ const perfumeDatabase = {
 
         "Pink Chiffon",
 
+        "Rock Candy",
+
         "Spicebomb",
 
         "Strawberry",
+
+        "Thousand Wishes",
 
         "Vanilla Powder",
 
@@ -125,6 +151,8 @@ const perfumeDatabase = {
         "Amouage Outlands",
 
         "Baccarat Rouge",
+
+        "Black Opium YSL",
 
         "Lattafa Khamrah",
 
