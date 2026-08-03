@@ -76,7 +76,7 @@ message +=
 `💰 TOTAL: GH₵${total}%0A%0A`;
 
 message +=
-`Momo: 0598668923 `;
+`Momo: 0598668923 %0A`;
 
 message +=
 `Name: Ann-Marie Duncan...Thank you!`;
