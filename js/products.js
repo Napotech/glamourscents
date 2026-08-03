@@ -80,7 +80,11 @@ const perfumeDatabase = {
 
         "Baccarat Rouge",
 
-        "Black Opium",
+        "Billie Eilish",
+
+        "Black Opium YSL",
+
+        "Blanco Latte",
 
         "Electric Cherry",
 
@@ -90,13 +94,15 @@ const perfumeDatabase = {
 
         "Kayali Eden Juicy Apple",
 
+        "Kayali Vanilla 28",
+
         "Lattafa Khamrah",
 
         "Mad About You",
 
         "Mango Temptation",
 
-        "Paco Rabanne XS",
+        "Pacco Rabanne XS",
 
         "Pink Chiffon",
 
