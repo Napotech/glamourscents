@@ -84,7 +84,7 @@ const perfumeDatabase = {
 
         "Black Opium YSL",
 
-        "Blanco Latte",
+        "Bianco Latte",
 
         "Electric Cherry",
 
@@ -110,7 +110,11 @@ const perfumeDatabase = {
 
         "Strawberry",
 
-        "Yara Pink"
+        "Vanilla Powder",
+
+        "Yara Pink",
+
+        "YSL Libre"
 
     ],
 
