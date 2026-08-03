@@ -124,7 +124,7 @@ if(size!=""){
 
 bottleImage.src=bottleImages[size];
 
-productPrice.innerHTML="$"+bottlePrices[size];
+productPrice.innerHTML="GH₵"+bottlePrices[size];
 
 }
 
