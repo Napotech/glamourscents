@@ -16,7 +16,7 @@ const bottlePrices = {
 };
 
 const bottleImages = {
-    "3ml":"images/bottles/3ml.png",
+    "3ml":"images/bottles/3ml.jpg",
     "6ml":"images/bottles/6ml.png",
     "10ml":"images/bottles/10ml.png",
     "12ml":"images/bottles/12ml.png",
