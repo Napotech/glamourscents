@@ -89,7 +89,7 @@ card.innerHTML=`
 
 <h3>${size}</h3>
 
-<p>$${bottlePrices[size]}</p>
+<p>GH₵${bottlePrices[size]}</p>
 
 `;
 
