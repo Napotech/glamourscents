@@ -30,7 +30,7 @@ Continue Shopping
 
 `;
 
-cartTotal.innerHTML="$0.00";
+cartTotal.innerHTML="GH₵0.00";
 
 return;
 
