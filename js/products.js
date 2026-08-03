@@ -112,17 +112,27 @@ const perfumeDatabase = {
 
         "Arabian Oud",
 
-        "Oud Wood",
+        "Amouage Outlands",
 
-        "White Musk",
+        "Baccarat Rouge",
+
+        "Lattafa Khamrah",
+
+        "Amouage Outlands",
+
+        "Hibiscus Mahajad",
 
         "Royal Amber",
 
-        "Black Oud",
+        "Pacco Rabanne XS",
+
+        "Spicebomb",
+
+        "Black Orchid",
 
         "Amber Musk",
 
-        "Golden Sand",
+        "Oud Maracuja",
 
         "Velvet Oud"
 

@@ -76,7 +76,10 @@ message +=
 `💰 TOTAL: GH₵${total}%0A%0A`;
 
 message +=
-`Momo:0598668923 | Ann-Marie Duncan...Thank!`;
+`Momo: 0598668923 `;
+
+message +=
+`Name: Ann-Marie Duncan...Thank you!`;
 
 const whatsappNumber =
 "233243505452";   // Replace with YOUR number
