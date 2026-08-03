@@ -70,7 +70,7 @@ cartContainer.innerHTML+=`
 
 <div class="cart-price">
 
-$${subtotal}
+GH₵${subtotal.toFixed(2)}
 
 </div>
 
