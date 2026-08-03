@@ -88,7 +88,7 @@ onclick="removeItem(${index})">
 
 });
 
-cartTotal.innerHTML="$"+total.toFixed(2);
+cartTotal.innerHTML="GH₵"+total.toFixed(2);
 
 localStorage.setItem(
 
