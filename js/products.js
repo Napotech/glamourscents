@@ -17,14 +17,14 @@ const bottlePrices = {
 
 const bottleImages = {
     "3ml":"images/bottles/3ml.jpg",
-    "6ml":"images/bottles/6ml.jpg",
-    "10ml":"images/bottles/10ml.jpg",
+    "6ml":"images/bottles/6ml.png",
+    "10ml":"images/bottles/10ml.png",
     "12ml":"images/bottles/12ml.jpg",
     "15ml":"images/bottles/15ml.jpg",
     "20ml":"images/bottles/20ml.jpg",
     "30ml":"images/bottles/30ml.png",
     "50ml":"images/bottles/50ml.jpg",
-    "75ml":"images/bottles/75ml.jpg",
+    "75ml":"images/bottles/75ml.png",
     "100ml":"images/bottles/100ml.png"
 };
 
