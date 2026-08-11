@@ -32,6 +32,8 @@ const perfumeDatabase = {
 
     men: [
 
+        "Amouage Interlude",
+
         "Amouage Outlands",
 
         "Black Ochid",        
@@ -53,6 +55,8 @@ const perfumeDatabase = {
         "Invictus",
 
         "Interlude Amouage",
+
+        "Magamere"
 
         "Oud Maracuja",
 
@@ -129,6 +133,8 @@ const perfumeDatabase = {
         "Pink Chiffon",
 
         "Rock Candy",
+
+        "Sorbetto Rosso",
 
         "Spicebomb",
 
