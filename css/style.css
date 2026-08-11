@@ -1681,3 +1681,27 @@ border-radius:8px;
 cursor:pointer;
 
 }
+
+/* =========================================
+   ADMIN ORDER MANAGEMENT SIDEBAR
+========================================= */
+
+.admin-menu-item {
+    margin-top: 18px;
+    padding-top: 18px;
+    border-top: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.admin-order-link {
+    display: flex !important;
+    align-items: center;
+    gap: 10px;
+}
+
+.admin-order-link i {
+    font-size: 13px;
+}
+
+.admin-order-link span {
+    font-size: inherit;
+}
