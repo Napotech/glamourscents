@@ -56,7 +56,7 @@ const perfumeDatabase = {
 
         "Interlude Amouage",
 
-        "Magamere"
+        "Magamere",
 
         "Oud Maracuja",
 
